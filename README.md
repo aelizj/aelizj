@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Anne, a software engineer based in Seattle, WA 🌲. Coming from a biology background, I take a detail-oriented approach when it comes to development, and I'm always excited to collaborate on projects at the intersection of science and technology.
+I'm Anne, a software engineer based in Seattle, WA 🌲. Coming from a biology background, I take a detail-oriented approach to development, and I'm always excited to collaborate on projects at the intersection of science and technology.
 
 When I'm not coding, I love to ski, knit, and figure out how plants work.
 
