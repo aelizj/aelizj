@@ -12,7 +12,7 @@ I'm Anne, a software engineer based in Seattle, WA.
 </a>
 
 <a target="_blank" href="https://www.annejones.dev">
-
+  <img src="./globe-pointer.svg" title="Personal Website" alt="Personal Website" width="35" height="35" />
 </a>
 
 <!--
