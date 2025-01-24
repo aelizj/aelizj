@@ -12,7 +12,7 @@ When I'm not coding, I love to ski, knit, and figure out how plants work.
 
 🌱 Another recent project I worked on was Flora, a community for plant lovers built using React and Node.JS.
 
-👩‍💻 Prior to that, I built [Arroyo](https://www.arroyoframework.com/), a framework that facilitates the granular rehydration of logs, with a small team of other great engineers.
+👩‍💻 Before that, I built [Arroyo](https://www.arroyoframework.com/), a framework that facilitates the granular rehydration of logs, with a small team of other great engineers.
 
 ---
 
