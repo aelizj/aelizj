@@ -8,7 +8,7 @@ When I'm not coding, I love to ski, knit, and figure out how plants work.
 
 ### What I'm up to:
 
-🐦 I'm currently working on an app that allows birdwatchers to access forecasts about bird migration.
+🐦 I'm currently working on an app that generates bird migration forecasts and makes them accessible to birdwatchers.
 
 🌱 Another recent project I worked on was Flora, a community for plant lovers built using React and Node.JS.
 
